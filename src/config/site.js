@@ -1,7 +1,7 @@
-const SITE_URL = import.meta.env.PUBLIC_SITE_URL || "https://ricoui-astro-starter.vercel.app";
+const SITE_URL = import.meta.env.PUBLIC_SITE_URL || "https://entangledminds.vercel.app";
 
 export const siteConfig = {
-	title: "Design-led Astro Starter",
+	title: "Entangled Minds",
 	author: "",
 	url: SITE_URL,
 	utm: {
@@ -19,6 +19,6 @@ export const siteConfig = {
 		twitterHandle: "",
 	},
 	social: {
-		github: "https://github.com/ricocc/ricoui-astro-starter",
+		github: "https://github.com/saiabhiram-simhadri/personal_blog",
 	},
 };
